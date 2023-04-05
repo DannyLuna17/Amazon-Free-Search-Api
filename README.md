@@ -1,5 +1,7 @@
 Amazon-Free-Search-Api
 =======
+[![CodeFactor](https://www.codefactor.io/repository/github/lunapy17/amazon-free-search-api/badge)](https://www.codefactor.io/repository/github/lunapy17/amazon-free-search-api)
+
 Este es un proyecto que usa Flask para crear un servidor que permite buscar productos en Amazon. El proyecto incluye autenticación con JSON Web Tokens (JWT).
 
 # Uso
