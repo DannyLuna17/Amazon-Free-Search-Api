@@ -28,7 +28,7 @@ print(rq.text)
 4. Ve a http://localhost:5000 en tu navegador web para ver la página principal.
 
 # Créditos
-Este proyecto fue creado por LunaPy17 y es libre de uso.
+Este proyecto fue creado por [LunaPy17](https://github.com/LunaPy17) y es libre de uso.
 
 # Contribución
 Las contribuciones son bienvenidas. Si quieres contribuir, sigue los siguientes pasos:
